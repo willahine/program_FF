@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "32.6703517 N,  11.1438091 E", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 11.1438091, 32.6703517, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "33.5113605 N,  10.1348555 E", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 10.134855499999958, 33.5113605, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "36.449454 N,  8.422694 E", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 8.422694, 36.449454, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "35.3145415 N,  9.1814596 E", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 9.181459600000039, 35.3145415, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "35.3145415 N,  9.1814596 E", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 9.181459600000039, 35.3145415, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "33.1388674 N,  11.1797041 E", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 11.179704099999981, 33.1388674, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "33.1388674 N,  11.1797041 E", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 11.179704099999981, 33.1388674, 0.0 ] } }
+]
+}
